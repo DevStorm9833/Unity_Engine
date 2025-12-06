@@ -10,21 +10,24 @@ ACTION PHASE → Find Safe Room → PUZZLE PHASE → Unlock Path → Repeat
        (3-5 minutes)          (2-3 minutes)
 ```
 
-# 🎯 3 GAME MODES (Solo, Online Multiplayer, Local Multiplayer)
+# 🎯 3 GAME MODES (Bot Mode, Online Multiplayer, Local Multiplayer)
 
 1. BOT MODE (Training Mode)
 
-- Players: 1
+- Players: 1, Many Bots
 - Style: Story-driven, escape-focused
-- Goal: Escape the reactor alone, solving all puzzles yourself
+- Goal: Defeat all bots, Solve a time based puzzle, Escape the reactor alone.
 
 Features:
 
-10 story levels
+3 story levels(Action + Puzzle)
 
-Unlockable lore documents
+Level 1: You v/s Bot1 Physical Fight ... If you win -> Solve Easy lvl Puzzle -> You get a Sword -> Level 2
+Level 2: You v/s Bot2(Stronger Bot)  ... If you win -> Solve Medium lvl Puzzle -> You get a Gun -> Level 2
+Level 3: You v/s Bot3(Strongest Bot)  ... If you win -> Solve Medium lvl Puzzle -> Ultimate Win
 
-Difficulty settings
+
+Action Fights based on Guns & Swords
 
 Leaderboards for fastest escape times
 
