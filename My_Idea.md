@@ -20,16 +20,14 @@ ACTION PHASE → Find Safe Room → PUZZLE PHASE → Unlock Path → Repeat
 
 Features:
 
-3 story levels(Action + Puzzle)
-
-Level 1: You v/s Bot1 Physical Fight ... If you win -> Solve Easy lvl Puzzle -> You get a Sword -> Level 2
+- 3 story levels(Action + Puzzle)
+```
+Level 1: You v/s Bot1 Fist Fight(Martial Arts) ... If you win -> Solve Easy lvl Puzzle -> You get a Sword -> Level 2
 Level 2: You v/s Bot2(Stronger Bot)  ... If you win -> Solve Medium lvl Puzzle -> You get a Gun -> Level 2
 Level 3: You v/s Bot3(Strongest Bot)  ... If you win -> Solve Medium lvl Puzzle -> Ultimate Win
+```
 
-
-Action Fights based on Guns & Swords
-
-Leaderboards for fastest escape times
+You can revive 3 times
 
 ```mermaid
 graph TD
@@ -69,29 +67,23 @@ If your partner dies, his component will be aquired by opponent team.
 
 2. ONLINE MULTIPLAYER
 
-- Players: 5-8 online
+- Players: 4-8 online
 - Style: Competitive co-op battle royale
 - Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
 
 
 Features:
-
-Matchmaking with random players
-
-Voice chat optional
-
-Ranked & casual modes
-
-Seasonal rewards
+- Voice chat optional
+- Seasonal rewards
 
 3. LOCAL MULTIPLAYER (2-4 Players)
 "Couch Meltdown"
 
-Players: 2-4 on same device/screen
+- Players: 5-10 on same device/screen
 
-Style: Party game with teamwork & betrayal
+- Style: Party game with teamwork & betrayal
 
-Goal: Escape together or betray friends
+- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
 
 Features:
 
