@@ -29,6 +29,8 @@ Level 3(THE AI NEXUS): You v/s Bot3(Strongest Bot)  ... If you win -> Solve Hard
 
 Features:
 
+---
+
 ```mermaid
 graph TD
     A[MULTIPLAYER] --> B[ONLINE]
@@ -46,30 +48,40 @@ graph TD
 
 - Players: 4-8 online
 - Style: Competitive co-op battle royale
-- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
+- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive till level 3 to make your team win.
 
 How to play:
 
-- in Level 1, 4 v/s 4, 2 opponent players will be placed in each chamber. Now 1 player kill his opponent and solve the Easy puzzle and get a Sword.
-- in Level 2, The remaining all 4 players may be either 2 opponent or 2 team members. If 2 opponents, 2 team members fight with sword, solve Medium lvl puzzle. Else just solve puzzle and move ahead.
-- in Level 3, The remaining 2 players may be either 1 opponent or 1 team member. If 1 opponents, team member fight with gun, solve Hard lvl puzzle. Else just solve puzzle and move ahead.
+- 3 story levels(Action + Puzzle)
+```
+Level 1 (4 v/s 4), 2 opponent players will be placed in each chamber. Now 1 player kill his opponent and solve the Easy puzzle and get a Sword.
+Level 2 (2 v/s 2), The remaining all 4 players may be either 2 opponent or 2 team members. If 2 opponents, 2 team members fight with sword, solve Medium lvl puzzle. Else just solve puzzle and move ahead.
+Level 3 (1 v/s 1), The remaining 2 players may be either 1 opponent or 1 team member. If 1 opponents, team member fight with gun, solve Hard lvl puzzle. Else just solve puzzle and move ahead.
+```
+
+- Puzzle Requirement:
+```
+All players will have 1 component reqd to solve a puzzle.
+If your partner dies, his component will be acquired by opponent team.
+```
 
 Features:
 - Voice chat optional
 - Seasonal rewards
 
+---
+
 3. LOCAL MULTIPLAYER 
 
 - Players: 5-10 on a same network
 - Style: Co operative game with teamwork
-- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
+- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive till Level 3 to make your team win.
 
 Features:
 
-Features:
 - Different Roles
 ```
-Eg: 4 PLAYERS IN ONLINE MODE
+Eg: 4 PLAYERS IN Local Server
 
 Player 1: RUNNER - Fast, can dodge drones better
 Player 2: HACKER - Solves puzzles 30% faster
@@ -83,11 +95,7 @@ Solo - Competitive Win: Only first 3 escape (others lose)
 Team - Cooperative Win: All surviving players in a Team escape
 ```
 
-- Puzzle Requirement:
-```
-All players will have 1 component reqd to solve a puzzle.
-If your partner dies, his component will be aquired by opponent team.
-```
+
 
 
 
