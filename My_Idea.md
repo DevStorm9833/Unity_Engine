@@ -12,7 +12,7 @@ ACTION PHASE → Find Safe Room → PUZZLE PHASE → Unlock Path → Repeat
 
 # 🎯 3 GAME MODES (Solo, Online Multiplayer, Local Multiplayer)
 
-1. SOLO MODE
+1. With Computer MODE
 
 - Players: 1
 - Style: Story-driven, escape-focused
@@ -27,6 +27,19 @@ Unlockable lore documents
 Difficulty settings
 
 Leaderboards for fastest escape times
+
+```mermaid
+graph TD
+    A[MULTIPLAYER] --> B[ONLINE]
+    A --> C[LOCAL]
+    
+    B --> D[Solo]
+    B --> E[Team up]
+
+    C --> F[Solo]
+    C --> G[Team up]
+    
+```
 
 2. ONLINE MULTIPLAYER
 
