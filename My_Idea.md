@@ -61,7 +61,7 @@ Level 3 (1 v/s 1), The remaining 2 players may be either 1 opponent or 1 team me
 
 - Puzzle Requirement:
 ```
-All players will have 1 component reqd to solve a puzzle.
+All players will have 1 component reqd to solve the last Hard puzzle.
 If your partner dies, his component will be acquired by opponent team.
 ```
 
