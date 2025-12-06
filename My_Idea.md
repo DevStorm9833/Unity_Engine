@@ -42,6 +42,24 @@ graph TD
     
 ```
 
+2. ONLINE MULTIPLAYER
+
+- Players: 4-8 online
+- Style: Competitive co-op battle royale
+- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
+
+Features:
+- Voice chat optional
+- Seasonal rewards
+
+3. LOCAL MULTIPLAYER 
+
+- Players: 5-10 on a same network
+- Style: Co operative game with teamwork
+- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
+
+Features:
+
 Features:
 - Different Roles
 ```
@@ -65,27 +83,8 @@ All players will have 1 component reqd to solve a puzzle.
 If your partner dies, his component will be aquired by opponent team.
 ```
 
-2. ONLINE MULTIPLAYER
-
-- Players: 4-8 online
-- Style: Competitive co-op battle royale
-- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
 
 
-Features:
-- Voice chat optional
-- Seasonal rewards
-
-3. LOCAL MULTIPLAYER (2-4 Players)
-"Couch Meltdown"
-
-- Players: 5-10 on same device/screen
-
-- Style: Party game with teamwork & betrayal
-
-- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
-
-Features:
 
 
 
