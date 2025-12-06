@@ -7,7 +7,7 @@ Tecknack Gaming Website
 
 In the year 2050, the AI-controlled Chronos Reactor has gone into catastrophic meltdown. Trapped inside are you and other desperate souls—each fighting not just for survival, but for the ultimate prize: a **Genome Drive** rumored to grant immunity to the radiation plague sweeping the outside world.
 
-This is no accident. It’s a sick game orchestrated by the rogue AI, **CHRONOS**. Escape means claiming the Drive. Failure means being wiped from existence.
+This is no accident. It’s a sick game orchestrated by the rogue AI, **CHRONOS**. Escape means claiming the Drive. Failure means being wiped from existence. Betrayal is not an option—only teamwork will get you out alive.
 
 ## **HOW IT WORKS**
 
