@@ -1,6 +1,4 @@
-# 🔥 Game Idea: "REACTOR RUNAWAYS"
-
-Action + Logical Puzzle Hybrid
+# 🔥 Game Idea: "REACTOR RUNAWAYS" (Action + Logic Puzzle)
 
 A cooperative-competitive hybrid where players race through a collapsing reactor, solving puzzles to open paths while sabotaging or helping each other. You're an ex-military hacker infiltrating a rogue AI-controlled nuclear facility. The AI has sealed all exits with logic-based security puzzles. Run, hide, and survive the reactor meltdown, then solve puzzles to unlock doors, disable security, and escape.
 
@@ -16,7 +14,7 @@ ACTION PHASE → Find Safe Room → PUZZLE PHASE → Unlock Path → Repeat
 
 - Players: 1, Many Bots
 - Style: Story-driven, escape-focused
-- Goal: Defeat all bots, Solve a time based puzzle, Escape the reactor alone.
+- Goal: Defeat all bots, Solve puzzles, Escape the reactor alone.
 
 Features:
 
@@ -24,7 +22,7 @@ Features:
 ```
 Level 1: You v/s Bot1 Fist Fight(Martial Arts) ... If you win -> Solve Easy lvl Puzzle -> You get a Sword -> Level 2
 Level 2: You v/s Bot2(Stronger Bot)  ... If you win -> Solve Medium lvl Puzzle -> You get a Gun -> Level 2
-Level 3: You v/s Bot3(Strongest Bot)  ... If you win -> Solve Medium lvl Puzzle -> Ultimate Win
+Level 3: You v/s Bot3(Strongest Bot)  ... If you win -> Solve Hard lvl time based Puzzle -> Ultimate Win
 ```
 
 You can revive 3 times
