@@ -16,7 +16,7 @@ ACTION PHASE → Find Safe Room → PUZZLE PHASE → Unlock Path → Repeat
 - Style: Story-driven, escape-focused
 - Goal: Defeat all bots, Solve puzzles, Escape the reactor alone.
 
-Features:
+How to play:
 
 - 3 story levels(Action + Puzzle)
 ```
@@ -26,6 +26,8 @@ Level 3(THE AI NEXUS): You v/s Bot3(Strongest Bot)  ... If you win -> Solve Hard
 
 - You can revive 3 times in each level
 ```
+
+Features:
 
 ```mermaid
 graph TD
@@ -45,6 +47,12 @@ graph TD
 - Players: 4-8 online
 - Style: Competitive co-op battle royale
 - Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
+
+How to play:
+
+- in Level 1, 4 v/s 4, 2 opponent players will be placed in each chamber. Now 1 player kill his opponent and solve the Easy puzzle and get a Sword.
+- in Level 2, The remaining all 4 players may be either 2 opponent or 2 team members. If 2 opponents, 2 team members fight with sword, solve Medium lvl puzzle. Else just solve puzzle and move ahead.
+- in Level 3, The remaining 2 players may be either 1 opponent or 1 team member. If 1 opponents, team member fight with gun, solve Hard lvl puzzle. Else just solve puzzle and move ahead.
 
 Features:
 - Voice chat optional
