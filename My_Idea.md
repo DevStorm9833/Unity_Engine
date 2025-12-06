@@ -12,7 +12,7 @@ ACTION PHASE → Find Safe Room → PUZZLE PHASE → Unlock Path → Repeat
 
 # 🎯 3 GAME MODES (Solo, Online Multiplayer, Local Multiplayer)
 
-1. With Computer MODE
+1. BOT MODE (Training Mode)
 
 - Players: 1
 - Style: Story-driven, escape-focused
@@ -41,12 +41,23 @@ graph TD
     
 ```
 
+Features:
+- Different Roles
+```
 EXAMPLE: 4 PLAYERS IN ONLINE MODE
 
 Player 1: RUNNER - Fast, can dodge drones better
 Player 2: HACKER - Solves puzzles 30% faster
 Player 3: SABOTEUR - Can lock doors on others
 Player 4: ENGINEER - Can repair shortcuts
+```
+
+- Escape Conditions:
+```
+Cooperative Win: All surviving players in a Team escape
+Competitive Win: Only first 3 escape (others lose)
+Betrayal Win: You escape alone after sabotaging others
+```
 
 2. ONLINE MULTIPLAYER
 
