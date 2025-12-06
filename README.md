@@ -17,11 +17,11 @@ This is no accident. It’s a sick game orchestrated by the rogue AI, **CHRONOS*
 
 ## **THE FINAL ESCAPE**
 
-In the heart of the AI Core, the final battle awaits. The last remaining players—whether allies or enemies—face off in an **epic duel** amidst exploding terminals and cascading radiation. The air crackles with energy; the ceiling collapses. Only the strongest—or smartest—will proceed.
+In the heart of the AI Core, the final battle awaits. The last remaining players—whether allies or enemies—face off in an **epic duel** amidst exploding terminals and cascading radiation. The last battle is epic: against CHRONOS’s elite guard bots, with lasers, timed platforms, and team-revive mechanics. The air crackles with energy; the ceiling collapses. Only the strongest—or smartest—will proceed.
 
-Then comes the **Final Door**: sealed by a time-based logic puzzle that demands **every component collected throughout the run**. Each player’s unique piece—a Data-Chip, Coolant Cell, or Key-Fragment—must be combined under a **60-second countdown**. One missing component, one wrong input, and the door seals forever, leaving you to burn in the meltdown.
+Then comes the **Final Door**: sealed by a time-based logic puzzle that demands every component your team ever collected—whether from fallen friends or defeated foes—is needed. Living and Dead together combine each player’s unique piece a Data-Chip, Coolant Cell, or Key-Fragment must be combined under a **60-second countdown**. One missing component, one wrong input, and the door seals forever, leaving you to burn in the meltdown. 
 
-Will you work together in the final seconds? Or betray at the last moment to claim the Genome Drive for yourself?
+You escape as one. Not as survivors, but as legends.
 
 The reactor is critical. The clock is ticking.  
 **Escape together—or die alone.**
