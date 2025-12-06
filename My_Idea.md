@@ -49,15 +49,14 @@ graph TD
 - Style: Competitive co-op battle royale
 - Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive till level 3 to make your team win.
 
-How to play:
+> How to play:
 
-> 3 story levels(Action + Puzzle)
+3 story levels(Action + Puzzle)
 > - Level 1 (4 v/s 4), 2 opponent players will be placed in each chamber. Now 1 player kill his opponent and solve the Easy puzzle and get a Sword.
 > - Level 2 (2 v/s 2), The remaining all 4 players may be either 2 opponent or 2 team members. If 2 opponents, 2 team members fight with sword, solve Medium lvl puzzle. Else just solve puzzle and move ahead.
 > - Level 3 (1 v/s 1), The remaining 2 players may be either 1 opponent or 1 team member. If 1 opponents, team member fight with gun, solve Hard lvl puzzle. Else just solve puzzle and move ahead.
 
-
-> Puzzle Requirement:
+Puzzle Requirement:
 > - All players will have 1 component reqd to solve the last Hard puzzle.
 > - If your partner dies, his component will be acquired by opponent team.
 > - In the Last Hard Puzzle, all your ghostly team mates appear to help solve it.
