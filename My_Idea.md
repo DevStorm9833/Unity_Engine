@@ -41,6 +41,13 @@ graph TD
     
 ```
 
+EXAMPLE: 4 PLAYERS IN ONLINE MODE
+
+Player 1: RUNNER - Fast, can dodge drones better
+Player 2: HACKER - Solves puzzles 30% faster
+Player 3: SABOTEUR - Can lock doors on others
+Player 4: ENGINEER - Can repair shortcuts
+
 2. ONLINE MULTIPLAYER
 
 - Players: 4-8 online
