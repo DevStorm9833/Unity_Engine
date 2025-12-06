@@ -22,3 +22,22 @@ In the heart of the AI Core, the final battle awaits. Survivors face off in an *
 You escape as one. Not as survivors, but as legends.
 The reactor is critical. The clock is ticking.  
 **Escape together—or die alone.**
+
+---
+
+
+# **ZERO POINT: ORBITAL SIEGE**
+
+**INTRODUCTION**
+The year is 2142. Gravity is a luxury. Amidst the debris of Earth's orbit, factions war over the **Helix Station** the last source of oxygen and fuel. You are a Breacher, an elite soldier fighting in the cold vacuum. This is high-speed, zero-gravity warfare where verticality is your best weapon. Your mission is simple: Dominate the void, secure resources, and eliminate the opposition. With only **three remote-link lives**, every thruster boost counts.
+
+### **How to Play**
+
+* **Zero-G Movement:** Use thrusters to drift. Master inertia—you keep moving until you brake! Use **Grappling Hooks** to swing around debris or pull enemies close.
+* **Omnidirectional Flight:** Experience fast-paced, 360-degree movement. Use your **Jetpack** to zip across the map or hover to take aim. Watch your blue Fuel bar closely—if it runs dry mid-air, you are a sitting duck until it recharges.
+* **Combat Loop:** Wear down enemy **Energy Shields** with fast-firing Plasma, then finish them with high-impact Railguns.
+* **Tactical Docking:** The Space Station is the only "Safe Zone." Fly into the **Docking Bay** to rapidly refill your Health and Fuel. **Strategy Tip:** You cannot shoot while docking, so ensure a teammate covers you.
+* **The Dual Objectives:**
+    * **The Spaceship (Attackers):** The mobile base. It has **5 Hull Points**. If destroyed, the attackers lose their ability to respawn.
+    * **The Space Station (Defenders):** The central fortress. It has **10 Structural Weak Points**. Destroying these critical zones wins the match.
+* **The 3-Strike Rule:** You have 3 respawn tokens. If you die three times, you are permanently out of the match.
