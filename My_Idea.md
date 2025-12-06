@@ -20,12 +20,12 @@ Features:
 
 - 3 story levels(Action + Puzzle)
 ```
-Level 1: You v/s Bot1 Fist Fight(Martial Arts) ... If you win -> Solve Easy lvl Puzzle -> You get a Sword -> Level 2
-Level 2: You v/s Bot2(Stronger Bot)  ... If you win -> Solve Medium lvl Puzzle -> You get a Gun -> Level 2
-Level 3: You v/s Bot3(Strongest Bot)  ... If you win -> Solve Hard lvl time based Puzzle -> Ultimate Win
-```
+Level 1(THE TRAINING FACILITY): You v/s Bot1 Fist Fight(Martial Arts) ... If you win -> Solve Easy lvl Puzzle -> You get a Sword -> Level 2
+Level 2(THE REACTOR CORE): You v/s Bot2(Stronger Bot)  ... If you win -> Solve Medium lvl Puzzle -> You get a Gun -> Level 2
+Level 3(THE AI NEXUS): You v/s Bot3(Strongest Bot)  ... If you win -> Solve Hard lvl Time based Puzzle -> Ultimate Win
 
-You can revive 3 times
+- You can revive 3 times in each level
+```
 
 ```mermaid
 graph TD
