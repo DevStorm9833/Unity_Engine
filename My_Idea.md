@@ -44,7 +44,7 @@ graph TD
 Features:
 - Different Roles
 ```
-EXAMPLE: 4 PLAYERS IN ONLINE MODE
+Eg: 4 PLAYERS IN ONLINE MODE
 
 Player 1: RUNNER - Fast, can dodge drones better
 Player 2: HACKER - Solves puzzles 30% faster
@@ -54,16 +54,22 @@ Player 4: ENGINEER - Can repair shortcuts
 
 - Escape Conditions:
 ```
-Cooperative Win: All surviving players in a Team escape
-Competitive Win: Only first 3 escape (others lose)
-Betrayal Win: You escape alone after sabotaging others
+Solo - Competitive Win: Only first 3 escape (others lose)
+Team - Cooperative Win: All surviving players in a Team escape
+```
+
+- Puzzle Requirement:
+```
+All players will have 1 component reqd to solve a puzzle.
+If your partner dies, his component will be aquired by opponent team.
 ```
 
 2. ONLINE MULTIPLAYER
 
-- Players: 4-8 online
+- Players: 5-8 online
 - Style: Competitive co-op battle royale
-- Goal: Be among the first 3 to escape; sabotage others
+- Goal: `Solo` - Be among the first 3 to escape; `Team` - Survive to make your team win.
+
 
 Features:
 
