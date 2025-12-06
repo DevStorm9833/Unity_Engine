@@ -13,7 +13,7 @@ This is no accident. It’s a sick game orchestrated by the rogue AI, **CHRONOS*
 
 **THREE MODES:** Train solo against bots, battle strangers online, or team up with friends locally.
 
-**EACH LEVEL:** A race against the meltdown, blending combat and logic puzzles. In **Level 1**, fight for basic weapons. In **Level 2**, sabotage or cooperate with others. But **Level 3** is where everything changes.
+**EACH LEVEL:** A race against the meltdown, blending combat and logic puzzles. You fight together, fall together, and rise together. Even in death, you’re not gone—you become a Ghost, able to guide, support, and fight from beyond.
 
 ## **THE FINAL ESCAPE**
 
