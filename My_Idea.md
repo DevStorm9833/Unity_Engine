@@ -92,6 +92,8 @@ Solo - Competitive Win: Only first 3 escape (others lose)
 Team - Cooperative Win: All surviving players in a Team escape
 ```
 
+- Puzzles:
+- Handle contradictions (if A is real, B's statement about A...)
 
 
 
