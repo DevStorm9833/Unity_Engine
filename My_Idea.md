@@ -16,9 +16,9 @@ ACTION PHASE → Find Safe Room → PUZZLE PHASE → Unlock Path → Repeat
 - Style: Story-driven, escape-focused
 - Goal: Defeat all bots, Solve puzzles, Escape the reactor alone.
 
-How to play:
+> How to play:
 
-> 3 story levels(Action + Puzzle)
+3 story levels(Action + Puzzle)
 
 > - Level 1(THE TRAINING FACILITY): You v/s Bot1 Fist Fight(Martial Arts) ... If you win -> Solve Easy lvl Puzzle -> You get a Sword -> Level 2
 > - Level 2(THE REACTOR CORE): You v/s Bot2(Stronger Bot)  ... If you win -> Solve Medium lvl Puzzle -> You get a Gun -> Level 2
