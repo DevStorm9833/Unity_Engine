@@ -23,6 +23,16 @@ You escape as one. Not as survivors, but as legends.
 The reactor is critical. The clock is ticking.  
 **Escape together—or die alone.**
 
+Choose Your Protocol: Enter the facility via Solo Training (Bots), Online Multiplayer(Battle Royale), or Local Multiplayer(Squad Roles).
+
+The Combat-Logic Loop: Brawl through waves of security droids to reach Safe Rooms,  blending combat and logic puzzles.
+
+Ghost Mechanics: Death is not the end. Eliminated players return as holographic Ghosts, to help find hidden clues and guide the alive player.
+
+The Core Showdown: Reach the melting AI Core and survive a chaotic final stand against CHRONOS’s Elite Guard amidst lasers and falling debris.
+
+The Ultimate Sync: Victory grants access to the Final Door, sealed by a brutal time-based logic puzzle. This lock demands every component (Data-Chips, Coolant Cells) your team ever collected whether from fallen friends or defeated foes.
+
 ---
 
 
