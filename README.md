@@ -35,6 +35,12 @@ The Ultimate Sync: Victory grants access to the Final Door, sealed by a brutal t
 
 ---
 
+ZionCore Breach is a Futuristic Action + Adventure game
+
+
+
+---
+
 
 # **ZERO POINT: ORBITAL SIEGE**
 
