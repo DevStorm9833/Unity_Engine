@@ -89,9 +89,10 @@ A dedicated area to master mechanics without pressure:
 
 📊 PROGRESSION & REWARDS
 
-· In-Match Progression: Perform actions (kills, assists, objective damage) to earn points for temporary in-match upgrades (e.g., faster fuel recharge, stronger shields for one life).
-· Cosmetic Unlocks: Earn credits from matches to buy skins for your Breacher, jetpack trails, weapon camos, and victory emotes.
-· Ranked Mode (Future): A competitive ladder for the Multiplayer mode with seasonal rewards.
+- In-Match Progression: Perform actions (kills, assists, objective damage) to earn points for temporary in-match upgrades (e.g., faster fuel recharge, stronger shields for one life).
+
+- Cosmetic Unlocks: Earn credits from matches to buy skins for your Breacher, jetpack trails, weapon camos, and victory emotes.
+- Ranked Mode (Future): A competitive ladder for the Multiplayer mode with seasonal rewards.
 
 ---
 
@@ -100,10 +101,10 @@ A dedicated area to master mechanics without pressure:
 This structure is now clean and focused. Your immediate next steps should be:
 
 1. Finalize Core Design: Lock this document as your "Version 1.0" design.
-2. Start Prototyping in Unity (Ubuntu):
-   · Week 1-2: Build the Zero-G Movement Prototype. Create a player capsule with Rigidbody, script the jetpack thrusters, fuel bar, and basic grappling hook. This is your most critical system.
-   · Week 3-4: Build the Combat Prototype. Add the two weapon types with different fire rates and the shield/health damage system.
-   · Week 5-6: Build a Single Test Map & One Game Mode. Create a small space arena with one Supply Station and implement the "Annihilation" (most kills) mode first—it's the simplest.
-   · Week 7-8: Integate UI, Polish, and Bots. Add health/fuel UI, a basic main menu, and simple AI bots for your Single Player mode.
 
-This plan gives you a clear, actionable, and ambitious but achievable roadmap for your game. Do you want to dive deeper into the technical steps for Week 1 (Movement Prototype), or would you like to discuss the visual style and potential asset sources next?
+2. Start Prototyping in Unity (Ubuntu):
+   - Week 1-2: Build the Zero-G Movement Prototype. Create a player capsule with Rigidbody, script the jetpack thrusters, fuel bar, and basic grappling hook. This is your most critical system.
+   - Week 3-4: Build the Combat Prototype. Add the two weapon types with different fire rates and the shield/health damage system.
+   - Week 5-6: Build a Single Test Map & One Game Mode. Create a small space arena with one Supply Station and implement the "Annihilation" (most kills) mode first—it's the simplest.
+   - Week 7-8: Integate UI, Polish, and Bots. Add health/fuel UI, a basic main menu, and simple AI bots for your Single Player mode.
+
