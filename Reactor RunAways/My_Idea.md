@@ -1,5 +1,5 @@
 
-# **REACTOR RUNAWAYS**
+# **ZionCore Breach**
 
 ## **INTRODUCTION**
 
@@ -40,7 +40,7 @@ ZionCore Breach is a Futuristic Action + Adventure game
 ---
 
 
-# **ZionCore Breach**
+# **Void Breachers**
 
 **INTRODUCTION**
 The year is 2142. Gravity is a luxury. Amidst the debris of Earth's orbit, factions war over the **Helix Station** the last source of oxygen and fuel. You are a Breacher, an elite soldier fighting in the cold vacuum. This is high-speed, zero-gravity warfare where verticality is your best weapon. Your mission is simple: Dominate the void, secure resources, and eliminate the opposition. With only **three remote-link lives**, every thruster boost counts.
