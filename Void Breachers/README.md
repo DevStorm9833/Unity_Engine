@@ -3,7 +3,7 @@
 > [!TIP]
 > - 2 Lvl: Many Bots outside the Spaceship, 1 Boss bot inside the Spaceship.
 > - As the Player fights and wins over the Boss Bot/ Player, they will get a Genome Drive which will save them from the toxic gases and come out of the Enemy Spaceship.
-> - Refer [Foundation Galactic Frontier](https://play.google.com/store/apps/details?id=com.games.foundation) for Game UI style, Combat mode, Spaceship style 
+> - Refer [Foundation Galactic Frontier](https://play.google.com/store/apps/details?id=com.games.foundation) for 3D Game angle UI style in 2D, Combat mode, Spaceship style 
 
 ---
 
